@@ -128,7 +128,7 @@
     </section>
 
    <div class="text-center mt-5">
-    <a href="threats.html" class="btn btn-primary">Go to threats page</a>
+ <a href="#" onclick="window.close()" class="btn btn-outline-secondary">
       ⬆️ Back to Main Page
     </a>
   </div>
@@ -136,4 +136,5 @@
 
 
 </html>
+
 
