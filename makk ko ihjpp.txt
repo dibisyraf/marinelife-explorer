@@ -128,11 +128,10 @@
     </section>
 
    <div class="text-center mt-5">
-    <a href="#" onclick="window.close()" class="btn btn-outline-secondary">
-      ⬆️ Back to Main Page
-    </a>
+   <a href="threats.html" class="btn btn-warning">Back to threats page</a>
   </div>
 
 
 
 </html>
+
